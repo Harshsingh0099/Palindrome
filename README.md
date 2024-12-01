@@ -1,2 +1,2 @@
 # Palindrome
-Leetcode problem no. 9
+Leetcode problem no: 9
